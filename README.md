@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/PranavBhandari97/PranavBhandari97/blob/main/main1.jpg)]
 <h1 align="center">Hi 👋, I'm Pranav Bhandari</h1>
 <h3 align="center">An incoming Grad student at the University of Illinois at Urbana-Champaign and an aspiring Data Scientist.</h3>
 
