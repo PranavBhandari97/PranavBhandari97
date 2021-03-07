@@ -5,10 +5,6 @@
 
 - 📝 I regularly write articles on [www.readingpoint.net](www.readingpoint.net)
 
-- 📫 How to reach me **pranavbhandari97@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ODbz-3elo4cl-SvjxlABFA-MN1CRgh2W/view](https://drive.google.com/file/d/1ODbz-3elo4cl-SvjxlABFA-MN1CRgh2W/view)
-
 - ⚡ Fun fact **I read 48 books in 2020.**
 
 <h3 align="left">Connect with me:</h3>
