@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pranavbhandari97.github.io/](https://pranavbhandari97.github.io/)
 
-- 📝 I regularly write articles on [https://readingpoint.wixsite.com/mysite](www.readingpoint.net)
+- 📝 I regularly write articles on [https://readingpoint.wixsite.com/mysite](https://readingpoint.wixsite.com/mysite)
 
 - ⚡ Fun fact **I read 48 books in 2020.**
 
