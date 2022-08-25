@@ -1,6 +1,7 @@
 ![MasterHead](https://github.com/PranavBhandari97/PranavBhandari97/blob/main/main1.jpg)
 <h1 align="center">Hi 👋, I'm Pranav Bhandari</h1>
 <h3 align="center">A Graduate student at the University of Illinois at Urbana-Champaign and an aspiring Data Scientist.</h3>
+<h5 align="left">Data Science Intern@CDW(May 2022 - Aug 2022)</h5>
 
 - 👨‍💻 All of my projects are available at [https://pranavbhandari97.github.io/](https://pranavbhandari97.github.io/)
 
